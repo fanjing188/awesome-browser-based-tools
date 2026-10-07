@@ -93,6 +93,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Data, Security, and Diagnostics
 
+- [ProbeKits](https://probekits.com/tools) - Free browser-based tests for keyboards, mice, displays, webcams, microphones, audio and gamepads without installation or an account.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze web performance and Core Web Vitals.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Web quality audits for performance, accessibility, SEO, and best practices. `open-source`
 - [SSL Labs SSL Test](https://www.ssllabs.com/ssltest/) - Deep TLS/SSL configuration analysis for public websites.
